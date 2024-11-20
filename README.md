@@ -31,6 +31,6 @@ I have expertise in various areas of hacking, with a keen interest in **penetrat
 I am always open to collaborating with other cybersecurity professionals, developers, and hobbyists who are passionate about hacking and tech. Here are a few ways to connect:
 
 - **Instagram**: (https://www.instagram.com/h04x.dipesh)
-- **Contact**: [mvh@shamash@email.com](mailto:info@dipeshbadal.com.np)
+- **Contact**: (info@dipeshbadal.com.np)
 
 💬 **Feel free to drop a message or connect if you're passionate about cybersecurity, ethical hacking, or just want to chat about tech!**
